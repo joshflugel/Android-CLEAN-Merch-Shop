@@ -1,4 +1,4 @@
-package com.clean.merchshop.ui
+package com.clean.merchshop.ui.products
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -7,6 +7,7 @@ import androidx.compose.ui.platform.ComposeView
 import androidx.navigation.fragment.findNavController
 import com.clean.merchshop.R
 import com.clean.merchshop.databinding.FragmentProductsBinding
+import com.clean.merchshop.ui.CleanMerchShopApp
 import dagger.hilt.android.AndroidEntryPoint
 
 

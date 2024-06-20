@@ -1,4 +1,4 @@
-package com.clean.merchshop.ui
+package com.clean.merchshop.ui.shoppingcart
 
 import android.os.Bundle
 import android.view.View
